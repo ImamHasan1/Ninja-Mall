@@ -53,7 +53,7 @@ nav ul{
 }
 .reach-content{
   height: 350px;
-  background-image:  url('images/recharge.jpg');
+  background-image:  url('recharge.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -109,13 +109,13 @@ nav ul{
   margin: 2px;
 }
 .customer-1{
-  background-image: linear-gradient(rgb(0,0,0,0.07), rgb(0,0,0,0.5)) , url('images/customers/customer1.jpg');
+  background-image: linear-gradient(rgb(0,0,0,0.07), rgb(0,0,0,0.5)) , url('customer1.jpg');
 }
 .customer-2{
-  background-image: linear-gradient(rgb(0,0,0,0.07), rgb(0,0,0,0.5)) ,url('images/customers/customer2.jpg');
+  background-image: linear-gradient(rgb(0,0,0,0.07), rgb(0,0,0,0.5)) ,url('customer2.jpg');
 }
 .customer-3{
-  background-image: linear-gradient(rgb(0,0,0,0.07), rgb(0,0,0,0.5)) , url('images/customers/customer3.jpg');
+  background-image: linear-gradient(rgb(0,0,0,0.07), rgb(0,0,0,0.5)) , url('customer3.jpg');
 }
 .contact-header{
   font-size: 22px;
